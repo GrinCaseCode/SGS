@@ -457,6 +457,9 @@
     .item-service__bottom {
         padding-top: 15px;
     }
+    .footer__requisites p {
+        margin-bottom: 7px;
+    }
 }
 
 /* Small Devices, Tablets */
