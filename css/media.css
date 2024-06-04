@@ -972,6 +972,7 @@
         font-size: 22px;
     }
     .item-team {
+        margin: 0 auto;
         max-width: 338px;
     }
 }
