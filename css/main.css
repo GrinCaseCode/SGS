@@ -22,8 +22,8 @@ body textarea:focus:required:invalid {
 body input:required:valid,
 body textarea:required:valid {
 	
-}
-body {
+} 
+body { 
 	font-family: 'Mulish';
 	font-size: 0.833vw;
 	line-height: 137%;
@@ -1712,4 +1712,91 @@ form {
 .item-team p a {
 	white-space: nowrap;
 	color: #000;
+}
+
+.billbord-page_service {
+	background-image: url(../img/billbord_service.jpg);
+}
+.billbord-info {
+	padding: 1.875vw;
+	padding-bottom: 2.865vw;
+	max-width: 48.021vw;
+	top: 3.125vw;
+	position: relative;
+	line-height: 162%;
+	backdrop-filter: blur(20px);
+	background: rgba(255, 255, 255, 0.4);
+	border-radius: 0.833vw;
+	color: #000;
+}
+.page-service {
+	padding-top: 4.167vw;
+	padding-bottom: 3.125vw;
+}
+.descr-big + .title-middle {
+	margin-top: 0.521vw;
+}
+.page-service .title-middle {
+	margin-bottom: 2.708vw;
+}
+.row_main + .title-middle {
+	margin-top: 2.708vw;
+}
+.service-technologies {
+	padding: 2.604vw;
+	padding-right: 6.146vw;
+	margin-bottom: 2.708vw;
+	font-size: 1.042vw;
+	line-height: 160%;
+	color: #000;
+	border-radius: 0.833vw;
+	background: #FAFAFA;
+	display: flex;
+	align-items: center;
+}
+.service-technologies img {
+	width: 12.031vw;
+	margin-right: 3.646vw;
+	flex: none;
+}
+.service-technologies .descr-big {
+	margin: 0;
+	margin-bottom: 1.094vw;
+}
+.advantage-simple .title-middle {
+	font-weight: 400;
+	margin: 0;
+	line-height: 158%;
+}
+.advantage-simple {
+	margin-top: 1.875vw;
+}
+.advantage-simple strong {
+	display: block;
+}
+.about-service {
+	font-size: 1.042vw;
+	padding: 1.875vw;
+	margin-top: 3.125vw;
+	line-height: 160%;
+	color: #000;
+	border-radius: 0.833vw;
+	background: #FAFAFA;
+}
+.about-service p {
+	margin-bottom: 0.781vw;
+}
+.about-service p:last-child {
+	margin-bottom: 0;
+}
+.about-service img {
+	border-radius: 0.833vw;
+	max-width: 100%;
+	height: auto;
+}
+.portfolio .title-section {
+	margin-bottom: 0.833vw;
+}
+.portfolio {
+	padding-bottom: 7.292vw;
 }
