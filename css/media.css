@@ -971,6 +971,9 @@
     .page-documents .title-section {
         font-size: 22px;
     }
+    .item-team {
+        max-width: 338px;
+    }
 }
 
 /* Extra Small Devices, Phones */
